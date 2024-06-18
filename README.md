@@ -5,12 +5,13 @@
 
 ## How to install?
 ### Modrinth App/Prism Launcher/MultiMC/ATlaucher
+### 1-st way:
 1. Open the Launcher and click on "Add instance"
 2. From the drop-down menu, select "Modrinth"
 3. Type "Opti" in the search and select the version you want
 4. Done!
 
-### 2 way:
+### 2-nd way:
 1. From the website, download the version of "Opti" you need.
 2. Open the Launcher and click on "Add instance"
 3. Select "Import"
