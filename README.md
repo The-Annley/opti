@@ -1,5 +1,5 @@
-#### [![test](https://imgur.com/a/OTVsKpc)] You can support me at this [link](https://www.donationalerts.com/r/the_annleyyy) 
-#### [![test2](https://imgur.com/a/OTVsKpc)] If you have any problems with "Opti" ModPack, please contact me in [discord](https://discord.gg/KtzzvT4Pyv)
+#### You can support me at this [link](https://www.donationalerts.com/r/the_annleyyy) 
+#### If you have any problems with "Opti" ModPack, please contact me in [discord](https://discord.gg/KtzzvT4Pyv)
 
 ## Opti allows you to play Minecraft comfortably and without lag with the best performance.
 
